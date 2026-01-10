@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Backend Python & AI Developer (Intern/Fresher)
 
-*Sinh viên năm 4 - Đại học Công nghệ Sài Gòn (STU)*
+*Senior Student at Saigon Technology University (STU)*
 
 <p align="center">
   <a href="https://portfolio.daoquocbao.me/" target="_blank">
@@ -27,17 +27,17 @@
 
 ### 🚀 About Me
 
-Tôi là một sinh viên đam mê công nghệ, hiện đang tập trung vào phát triển **Backend** và tích hợp **Trí tuệ nhân tạo (AI)** vào các sản phẩm thực tế.
+I am a passionate tech student currently focusing on **Backend Development** and integrating **Artificial Intelligence (AI)** into real-world products. I love building scalable systems and exploring how AI agents can solve complex problems.
 
-- 🔭 Tôi đang làm việc với: **Python, Django, FastAPI**.
-- 🌱 Tôi đang tìm hiểu sâu về: **System Design, AI Agents & Cloud Computing (AWS)**.
-- 🎓 Mục tiêu: Trở thành một Full-stack AI Engineer chuyên nghiệp.
+- 🔭 I’m currently working with: **Python, Django, FastAPI**.
+- 🌱 I’m currently learning: **System Design, AI Agents & Cloud Computing (AWS)**.
+- 🎓 Goal: To become a professional **Full-stack AI Engineer**.
 
 ---
 
 ### 🛠 My Toolbox
 
-Tôi sử dụng các công nghệ này để xây dựng sản phẩm:
+Here are the technologies I use to build my products:
 
 | Backend & AI | Database & Cloud | Tools & DevOps |
 | :---: | :---: | :---: |
@@ -47,14 +47,12 @@ Tôi sử dụng các công nghệ này để xây dựng sản phẩm:
 
 ### 💻 Featured Projects
 
-Một số dự án tiêu biểu tôi đã thực hiện:
+A few notable projects I've worked on:
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **🤖 AI Career Advisor** | Hệ thống tư vấn nghề nghiệp sử dụng AI để phân tích và đưa ra lộ trình phù hợp. | `Python` `AI` | [![GitHub](https://img.shields.io/github/stars/quocbao2004/ai_career_advisor?style=social)](https://github.com/quocbao2004/ai_career_advisor) |
-| **👥 HR Management** | Phần mềm quản lý nhân sự, chấm công và tính lương hiệu quả. | `Django` `Postgres` | [![GitHub](https://img.shields.io/badge/View-Code-blue?logo=github)](https://github.com/quocbao2004/hr_managerment) |
-
-*(Lưu ý: Bảng trên tự động cập nhật trạng thái nếu link repository chính xác)*
+| **🤖 AI Career Advisor** | An intelligent system using AI to analyze user profiles and provide personalized career roadmaps. | `Python` `AI` | [![GitHub Stars](https://img.shields.io/github/stars/quocbao2004/ai_career_advisor?style=social)](https://github.com/quocbao2004/ai_career_advisor) |
+| **👥 HR Management** | A comprehensive HR solution for employee management, timekeeping, and payroll processing. | `Django` `Postgres` | [![GitHub](https://img.shields.io/badge/View-Code-blue?logo=github)](https://github.com/quocbao2004/hr_managerment) |
 
 ---
 
