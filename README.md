@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Đào Quốc Bảo 👋
+# Hi there, I'm Đào Quốc Bảo
 
-### 👨‍💻 Backend Python & AI Developer (Intern/Fresher)
+### Backend Python & AI Developer (Intern/Fresher)
 
 *Senior Student at Saigon Technology University (STU)*
 
@@ -25,17 +25,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a passionate tech student currently focusing on **Backend Development** and integrating **Artificial Intelligence (AI)** into real-world products. I love building scalable systems and exploring how AI agents can solve complex problems.
 
-- 🔭 I’m currently working with: **Python, Django, FastAPI**.
-- 🌱 I’m currently learning: **System Design, AI Agents & Cloud Computing (AWS)**.
-- 🎓 Goal: To become a professional **Full-stack AI Engineer**.
+- I’m currently working with: **Python, Django, FastAPI**.
+- I’m currently learning: **System Design, AI Agents & Cloud Computing (AWS)**.
+- Goal: To become a professional **Full-stack AI Engineer**.
 
 ---
 
-### 🛠 My Toolbox
+### My Toolbox
 
 Here are the technologies I use to build my products:
 
@@ -45,14 +45,14 @@ Here are the technologies I use to build my products:
 
 ---
 
-### 💻 Featured Projects
+### Featured Projects
 
 A few notable projects I've worked on:
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **🤖 AI Career Advisor** | An intelligent system using AI to analyze user profiles and provide personalized career roadmaps. | `Python` `AI` | [![GitHub Stars](https://img.shields.io/github/stars/quocbao2004/ai_career_advisor?style=social)](https://github.com/quocbao2004/ai_career_advisor) |
-| **👥 HR Management** | A comprehensive HR solution for employee management, timekeeping, and payroll processing. | `Django` `Postgres` | [![GitHub](https://img.shields.io/badge/View-Code-blue?logo=github)](https://github.com/quocbao2004/hr_managerment) |
+| ** AI Career Advisor** | An intelligent system using AI to analyze user profiles and provide personalized career roadmaps. | `Python` `AI` | [![GitHub Stars](https://img.shields.io/github/stars/quocbao2004/ai_career_advisor?style=social)](https://github.com/quocbao2004/ai_career_advisor) |
+| ** HR Management** | A comprehensive HR solution for employee management, timekeeping, and payroll processing. | `Django` `Postgres` | [![GitHub](https://img.shields.io/badge/View-Code-blue?logo=github)](https://github.com/quocbao2004/hr_managerment) |
 
 ---
 
