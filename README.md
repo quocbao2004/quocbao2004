@@ -2,7 +2,7 @@
 
 # Hi there, I'm Đào Quốc Bảo
 
-### Backend Python & AI Developer (Intern/Fresher)
+### Backend Python & AI Developer
 
 *Senior Student at Saigon Technology University (STU)*
 
